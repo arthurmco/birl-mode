@@ -1,11 +1,11 @@
 Name: birl-mode
-Version: 0.1.3
+Version: 0.1.4
 Release:        1%{?dist}
 Summary: a mode for the Bambam It's show Time Recursive Language for Emacs
 
 License: GPL
 URL: https://github.com/arthurmco/birl-mode
-Source0: https://github.com/arthurmco/birl-mode/archive/master.zip
+#Source0: https://github.com/arthurmco/birl-mode/archive/master.zip
 
 BuildRequires: emacs
 Requires: emacs
@@ -37,6 +37,9 @@ because here is fibra, not agua com musculo
 ~/.emacs.d/birl-mode.el
 
 %changelog
+* Fri Dec 15 2017 sandbox <sandbox@example.com> 0.1.4-1
+- 
+
 * Fri Dec 15 2017 sandbox <sandbox@example.com> 0.1.3-1
 - bababjka
 
